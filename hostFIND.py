@@ -12,7 +12,7 @@ p = '\033[0;35m'
 c = '\033[0;96m'
 w = '\033[0;37m'
 
-print(f'\n\n{c} {code by : Miyandi1997}\n')
+print(f'\n\n{c} {code by : zxsuu}\n')
 print(f'\n\n{c} {host finder }\n')
 
 
